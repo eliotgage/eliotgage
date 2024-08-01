@@ -1,6 +1,6 @@
 - 👋 Hi, I’m eliot
 - 👀 I’m interested in game development and computer science
-- 🌱 I’m currently learning ap calc 
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on echo labs
 - 😄 Pronouns: he/him
 
